@@ -3,17 +3,6 @@
 Small, executable examples of Ruby behavior that can cause real production bugs.
 The cases focus on semantics and state, not formatting or cosmetic style.
 
-## Repository name ranking
-
-1. `ruby-production-traps` — explicit, memorable, and clear about severity.
-2. `ruby-footguns` — concise and familiar, but less descriptive to newcomers.
-3. `sharp-ruby` — memorable, though its purpose is not obvious from the name alone.
-4. `ruby-gotchas-lab` — communicates runnable examples, but sounds less production-focused.
-5. `ruby-shockers` — catchy, but vague about whether the content is educational.
-
-The first name was selected because it best describes both the language and the
-purpose of the collection without requiring extra context.
-
 ## Structure
 
 Every file in `cases/` is standalone and contains:
